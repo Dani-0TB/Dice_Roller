@@ -9,3 +9,5 @@ modifications on this  little project, or even features, are all well recieved. 
 
 So yeah. My name is Dani BTW. And when I'm not programming, I'm acting, currently studying at a university here in my country, 
 and I'm teaching myself cs, programming and game development (With godot for the engine, Aseprite for the art) on the side.
+
+Edit: Esta repo es una resubida de mi antigua cuenta Dani-41TB
